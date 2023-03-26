@@ -1,0 +1,15 @@
+body{
+    background-color: lightseagreen;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+h3{
+    color:darkslategrey;
+}
+hr{
+    background-color: none;
+    justify-content: centre;
+    border-style: dotted none none none;
+    border-color: black;
+    border-width: 5px;
+    width: 10%;
+}
